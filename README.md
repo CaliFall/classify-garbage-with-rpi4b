@@ -132,28 +132,28 @@
 #### 零件表/Parts list
 >1. 树莓派4b (用的4g运存版,2g应该也行)
 >
->1. Raspberry pie 4B (2G should be OK,while I ran it on a 4G storage version)
+>   Raspberry pie 4B (2G should be OK,while I ran it on a 4G storage version)
 >2. 扩展板 (YwRobot家的,35rmb,不是广告)
 >
->2. Expansion board (ywrobot's, 35rmb, not advertising)
+>   Expansion board (ywrobot's, 35rmb, not advertising)
 >
 >   (btw,i buy it on taobao.com,I think you can get a alternative wherever you are)
 >   
 >3. 舵机 x 2 (我们用的机构里要两个舵机,由于一个是360度一个是180度,所以代码写的有些奇怪)
 >
->3. Steering gear x 2 (we need two steering gears in the mechanism. Because one is 360 degrees and the other is 180 degrees, the code is strange)
+>   Steering gear x 2 (we need two steering gears in the mechanism. Because one is 360 degrees and the other is 180 degrees, the code is strange)
 >
 >4. 超声波传感器 x 4 (HC-SRO4,四针的) (建议不要用超声波,稳定性太差)
 >
->4. Ultrasonic sensor x 4 (hc-sro4, four pin) (it is recommended not to use ultrasonic, the stability is too poor)
+>   Ultrasonic sensor x 4 (hc-sro4, four pin) (it is recommended not to use ultrasonic, the stability is too poor)
 >
 >5. 显示屏 (至少要1024x600的分辨率,否则程序界面要大改)
 >
->5. Display screen (at least 1024x600 resolution, otherwise the program interface will be greatly changed)
+>   Display screen (at least 1024x600 resolution, otherwise the program interface will be greatly changed)
 >
 >6. 开关 x 6 (三个电路三个控制) (放这么多开关是老师的主意,后续来看确实有这个必要) (如果没有开关,则需要把空闲模式关掉)
 >
->6. Switch x 6 (three circuits and three controls) (it is the teacher's idea to put so many switches, which is really necessary later) (if there is no switch, it is necessary to turn off the idle mode)
+>   Switch x 6 (three circuits and three controls) (it is the teacher's idea to put so many switches, which is really necessary later) (if there is no switch, it is necessary to turn off the idle mode)
 
 #### 相关图片/Related pictures
 >##### 大致走线图/Approximate routing diagram
