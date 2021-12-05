@@ -3,12 +3,19 @@
 
 #### 介绍/Intro
 >基于树莓派4b的智能垃圾分拣系统，涉及pytorch，pyqt5。
+>
 >The intelligent garbage sorting system based on raspberry pie 4B involves pytorch and pyqt5.
+>
 >为第七届工训赛设计，获江苏省特等奖，第五名无缘国赛。
+>
 >It was designed for the seventh engineering training competition, won the special prize of Jiangsu Province and missed the national competition.
+>
 >也可以当作毕设。
+>
 >It can also be used as a graduation project.
+>
 >Bilibili演示视频:https://www.bilibili.com/video/BV1kN411o73u
+>
 >BiliBili demo video:https://www.bilibili.com/video/BV1kN411o73u
 
 
