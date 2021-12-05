@@ -17,6 +17,8 @@
 >Bilibili演示视频:https://www.bilibili.com/video/BV1kN411o73u
 >
 >BiliBili demo video:https://www.bilibili.com/video/BV1kN411o73u
+>
+>if you have touble loading the images below,try VPN or just ingnore them
 
 
 #### 联系方式/How to get in touch with me?
