@@ -22,13 +22,13 @@
 
 
 #### 联系方式/How to get in touch with me?
->QQ交流群群号:789169244
+>QQ交流群群号:(已删除)
 >
->QQ communication group number:789169244
+>QQ communication group number:deleted
 >
->我(何天骅)QQ号:3177556879
+>我(何天骅)QQ号:(太多人骚扰，已删除)
 >
->My (CaliFall) QQ number:3177556879
+>My (CaliFall) QQ number:(too much spam,deleted)
 >
 >Or just email me:califall@qq.com
 
